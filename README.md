@@ -40,12 +40,12 @@ in a short period of time.
 
 Remember, programming is all about providing a solution to a problem. When 'on
 the job', so to speak, no one gets bonus points for concocting a novel/clever
-solution to problem for which good open source code already existed.
+solution to a problem for which good open source code already existed.
 
 
 ## Setting Up Node Package Manager
 
-Before we continue, let's make sure you're environment is all set to work with
+Before we continue, let's make sure your environment is all set to work with
 npm.
 
 npm is automatically installed along with _Node.js_, which should already be
